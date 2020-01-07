@@ -1,0 +1,3 @@
+import django_patches.on_delete.patch
+import django_patches.url_2_path.patch
+import django_patches.user_is_authenticated.patch

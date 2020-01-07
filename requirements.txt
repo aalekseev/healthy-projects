@@ -1,0 +1,10 @@
+bowler
+# Dev
+black
+Django==1.10
+djangorestframework==3.7.0
+pytest
+pytest-cov
+mypy
+django-stubs
+djangorestframework-stubs

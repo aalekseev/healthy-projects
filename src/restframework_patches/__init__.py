@@ -1,0 +1,2 @@
+import restframework_patches.base_name_depreciation.patch
+import restframework_patches.detail_route_2_action.patch
